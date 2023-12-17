@@ -6,18 +6,18 @@
 
 Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (for about 8 years). However, due to a relocation to another country and a maternity leave, I wanted to change my profession, something I had been thinking about for a while. That's how I decided to become a software tester. My choice is driven by the desire to grow professionally and utilize my talent for error detection, which is rooted in my experience as an English language teacher. Additionally, the world needs high-quality applications, and I can assist with that.
 
-- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ala-sudneva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mailforalla@gmail.com)
+- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@ala-sudneva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ala-sudneva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mailforalla@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/ala-sudneva/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    <a href="https://www.facebook.com/alla.vasilyeva.7/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="40" height="40" alt="facebook" />
     </a>
   </div>
 
