@@ -2,15 +2,15 @@
 
 ---
 
-### 👨‍💻ABOUT ME:
+### ABOUT ME:
 
 Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (for about 8 years). However, due to a relocation to another country and a maternity leave, I wanted to change my profession, something I had been thinking about for a while. That's how I decided to become a software tester. My choice is driven by the desire to grow professionally and utilize my talent for error detection, which is rooted in my experience as an English language teacher. Additionally, the world needs high-quality applications, and I can assist with that.
 
-- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@ala-sudneva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ala-sudneva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mailforalla@gmail.com)
+ 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@ala-sudneva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ala-sudneva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mailforalla@gmail.com)
 
 ---
 
-### 🤝 SOCIAL MEDIA:
+### SOCIAL MEDIA:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/ala-sudneva/" target="_blank">
@@ -23,7 +23,7 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
-### 📁 TESTING DOCUMENTATION:
+### TESTING DOCUMENTATION:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -35,7 +35,7 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
-### 🛠 WEB APP TESTING:
+### WEB APP TESTING:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -45,7 +45,7 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
-### 📱 MOBILE APP TESTING:
+### MOBILE APP TESTING:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -58,7 +58,7 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
-### 💾 WORKING WITH DATA:
+### WORKING WITH DATA:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -67,7 +67,7 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
-### ✏️ WORKING WITH SOURCE CODE:
+### WORKING WITH SOURCE CODE:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -78,11 +78,21 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
- ### 💻 COMPLETED COURSES:
+ ### COMPLETED COURSES:
 
-| Курсы                                                           | Дата              |
+| Courses:                                                          |             |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            |10/2023 - 12/2023 |
+|  "Functional Software Testing" Junior +                         |02/10/2023 - 12/2023 |
 
---- -->
+### TECH SKILLS
+* Knowledge of testing procedures and the creation of test documentation  
+* Understanding of different delivery methodologies (e.g., agile, waterfall, v-model)  
+* Mobile testing Knowledge  
+* DevTools knowledge  
+* SQL knowledge
+* REST API testing
+* HTML/CSS basics
+* Git and bash basics
+* Communicative English
+
 
