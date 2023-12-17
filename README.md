@@ -6,7 +6,8 @@
 
 Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (for about 8 years). However, due to a relocation to another country and a maternity leave, I wanted to change my profession, something I had been thinking about for a while. That's how I decided to become a software tester. My choice is driven by the desire to grow professionally and utilize my talent for error detection, which is rooted in my experience as an English language teacher. Additionally, the world needs high-quality applications, and I can assist with that.
 
- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@ala-sudneva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ala-sudneva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mailforalla@gmail.com)
+ 📩 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/AlaSudneva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ala-sudneva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mailforalla@gmail.com)  
+ 📍 Location: Wroclaw, Poland  
 
 ---
 
@@ -78,16 +79,13 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
- ### COMPLETED COURSES:
-
-| Courses:                                                          |             |
-| ----------------------------------------------------------------| :---------------: |
-|  "Functional Software Testing" Junior +                         |02/10/2023 - 12/2023 |
+ ### COMPLETED COURSES: 
+ 02/10/2023 - 12/2023 - "Functional Software Testing" Junior+
 
 ### TECH SKILLS
 * Knowledge of testing procedures and the creation of test documentation  
 * Understanding of different delivery methodologies (e.g., agile, waterfall, v-model)  
-* Mobile testing Knowledge  
+* Mobile testing knowledge  
 * DevTools knowledge  
 * SQL knowledge
 * REST API testing
@@ -96,3 +94,13 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 * Communicative English
 
 
+### SOFT SKILLS
+🔎 precision and attention to quality  
+🙌 communication and teamwork skills  
+💥 critical thinking  
+📚 ability to learn new tools, systems and processes quickly  
+📈 problem solving  
+🚀 proactive attitude  
+🔁 desire for self-development  
+🔋 energetic and motivated  
+📋 well-organized
