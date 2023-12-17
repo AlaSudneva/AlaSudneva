@@ -58,7 +58,7 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
-### 💾 Работа с данными:
+### 💾 WORKING WITH DATA:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -67,7 +67,7 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ WORKING WITH SOURCE CODE:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -78,12 +78,11 @@ Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+ ### 💻 COMPLETED COURSES:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| netology.ru/Старт в программировании                            |10/2023 - 12/2023 |
 
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
