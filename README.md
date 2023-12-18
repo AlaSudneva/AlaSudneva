@@ -83,11 +83,11 @@ Hello, my name is Ala. In the past, I was a dedicated wholesale sales manager (f
  02/10/2023 - 12/2023 - "Functional Software Testing" Junior+
 
  ### [MY TESTING ARTIFACTS](https://github.com/AlaSudneva/all-homeworks/tree/main):  
- 💼 [Test cases](https://github.com/AlaSudneva/all-homeworks/tree/main/test-cases)  
- 📑 [Check lists](https://github.com/AlaSudneva/all-homeworks/tree/main/check-lists)
- 🐞 [Bug reports](https://github.com/AlaSudneva/all-homeworks/tree/main/bug-reports)
- 🛠️ [SQL](https://github.com/AlaSudneva/all-homeworks/tree/main/SQL)
- 🫖 [Charles Proxy](https://github.com/AlaSudneva/all-homeworks/tree/main/charles-proxy)
+ 💼 [Test cases](https://github.com/AlaSudneva/all-homeworks/tree/main/test-cases)    
+ 📑 [Check lists](https://github.com/AlaSudneva/all-homeworks/tree/main/check-lists)  
+ 🐞 [Bug reports](https://github.com/AlaSudneva/all-homeworks/tree/main/bug-reports)  
+ 🛠️ [SQL](https://github.com/AlaSudneva/all-homeworks/tree/main/SQL)  
+ 🫖 [Charles Proxy](https://github.com/AlaSudneva/all-homeworks/tree/main/charles-proxy)  
 
 ### TECH SKILLS
 * Knowledge of testing procedures and the creation of test documentation  
