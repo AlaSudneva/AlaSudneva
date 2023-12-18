@@ -80,7 +80,7 @@ Hello, my name is Ala. In the past, I was a dedicated wholesale sales manager (f
 ---
 
  ### COMPLETED COURSES: 
- 02/10/2023 - 12/2023 - "Functional Software Testing" Junior+
+ 02/10/2023 - 12/2023 - ["Functional Software Testing"](https://www.artsiomrusau.com/qa-from-scratch#tariffs) Junior+
 
  ### [MY TESTING ARTIFACTS](https://github.com/AlaSudneva/all-homeworks/tree/main):  
  💼 [Test cases](https://github.com/AlaSudneva/all-homeworks/tree/main/test-cases)    
