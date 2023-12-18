@@ -4,7 +4,7 @@
 
 ### ABOUT ME:
 
-Hello, my name is Alla. In the past, I was a dedicated wholesale sales manager (for about 8 years). However, due to a relocation to another country and a maternity leave, I wanted to change my profession, something I had been thinking about for a while. That's how I decided to become a software tester. My choice is driven by the desire to grow professionally and utilize my talent for error detection, which is rooted in my experience as an English language teacher. Additionally, the world needs high-quality applications, and I can assist with that.
+Hello, my name is Ala. In the past, I was a dedicated wholesale sales manager (for about 8 years). However, due to a relocation to another country and a maternity leave, I wanted to change my profession, something I had been thinking about for a while. That's how I decided to become a software tester. My choice is driven by the desire to grow professionally and utilize my talent for error detection, which is rooted in my experience as an English language teacher. Additionally, the world needs high-quality applications, and I can assist with that.
 
  📩 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/AlaSudneva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ala-sudneva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mailforalla@gmail.com)  
  📍 Location: Wroclaw, Poland  
