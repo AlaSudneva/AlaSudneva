@@ -24,6 +24,10 @@ Hello, my name is Ala. In the past, I was a dedicated wholesale sales manager (f
 
 ---
 
+### [MY CV](https://github.com/AlaSudneva/cv/blob/main/Sudneva_QA.pdf)  
+
+---
+
 ### TESTING DOCUMENTATION:
 
 <div>
